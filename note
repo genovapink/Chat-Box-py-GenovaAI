@@ -1,0 +1,9 @@
+pip install streamlit python-dotenv google-generativeai joblib
+
+python -m venv venv
+source venv/bin/activate   # kalau Windows: venv\Scripts\activate
+
+pip install streamlit
+pip install python-dotenv
+pip install google-generativeai
+pip install joblib
